@@ -18,24 +18,26 @@ I have hands-on experience in various domains, including cloud computing, softwa
 ## 🚀 Tech Stacks  
 Here are the technologies I use, with a focus on cloud solutions, programming languages, and infrastructure tools:  
 
+Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) 
+Database
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🌐 Languages  
 Languages I speak and their proficiency levels:  
 
-🇧🇷 **Portuguese** / Native Speaker  
-🇬🇧 **English** / C1 (Advanced)  ![ENGLISH](https://img.shields.io/badge/Language-Español-informational?style=for-the-badge](https://img.shields.io/badge/Language-English-informational?style=for-the-badge)) 
+🇧🇷 **Portuguese** / Native Speaker  ![PORTUGUESE](https://img.shields.io/badge/Language-Português-informational?style=for-the-badge)
+
+🇬🇧 **English** / C1 (Advanced)  ![ENGLISH](https://img.shields.io/badge/Language-English-informational?style=for-the-badge)
+
 🇪🇸 **Spanish** / C1 (Advanced) ![SPANISH](https://img.shields.io/badge/Language-Español-informational?style=for-the-badge) 
 
 ---
