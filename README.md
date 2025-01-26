@@ -27,8 +27,7 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -36,8 +35,8 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
 Languages I speak and their proficiency levels:  
 
 🇧🇷 **Portuguese** / Native Speaker  
-🇬🇧 **English** / C1 (Advanced)  
-🇪🇸 **Spanish** / C1 (Advanced)  
+🇬🇧 **English** / C1 (Advanced)  ![ENGLISH](https://img.shields.io/badge/Language-Español-informational?style=for-the-badge](https://img.shields.io/badge/Language-English-informational?style=for-the-badge)) 
+🇪🇸 **Spanish** / C1 (Advanced) ![SPANISH](https://img.shields.io/badge/Language-Español-informational?style=for-the-badge) 
 
 ---
 
