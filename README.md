@@ -45,7 +45,7 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" alt="GitHub Foundations" style="margin: 0 10px;"/>
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E57857D39CF809BC974D2030239F39C52B5D745C764D5A6ED4231623FA970060">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="100" alt="Oracle Foundations 2023" style="margin: 0 10px;"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="200" alt="Oracle Foundations 2023" style="margin: 0 10px;"/>
   </a>
 </p>
 
