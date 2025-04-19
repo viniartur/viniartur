@@ -36,13 +36,13 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
 
 <p align="center">
   <a href="https://www.credly.com/badges/7975edff-156c-4d38-9882-5a2491892fbc/public_url">
-    <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="120" alt="Google Cloud ACE" style="margin: 0 10px;"/>
+    <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="140" alt="Google Cloud ACE" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.credly.com/badges/f988abee-1898-43ee-b068-78f8824f8e8e/public_url">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120" alt="Azure Fundamentals" style="margin: 0 10px;"/>
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="140" alt="Azure Fundamentals" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.credly.com/badges/024d0122-724d-4c5a-bd83-cfe3c4b7a073/public_url">
-    <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120" alt="GitHub Foundations" style="margin: 0 10px;"/>
+    <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="140" alt="GitHub Foundations" style="margin: 0 10px;"/>
   </a>
 </p>
 
