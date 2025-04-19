@@ -1,6 +1,7 @@
 # Hi there 👋  
 Welcome to my GitHub profile! I’m passionate about technology, programming, and continuous learning. Here you’ll find a collection of my projects, experiments, and contributions.
 Connect with me on social media to stay updated on my journey!  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniartur)
 ---
@@ -44,7 +45,7 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" alt="GitHub Foundations"/>
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E57857D39CF809BC974D2030239F39C52B5D745C764D5A6ED4231623FA970060">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="100" alt="Oracle Foundations 2023"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="120" alt="Oracle Foundations 2023"/>
   </a>
 </p>
 
@@ -63,3 +64,6 @@ Languages I speak and their proficiency levels:
 
 Thank you for visiting! 😊  
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss any exciting ideas.
+
+
+<div style="position: relative;overflow: hidden;width: 100%;max-width:600px;margin:0 auto;padding-top: 56%;"><iframe src="https://clip.cafe/e/141598" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;"></iframe></div>
