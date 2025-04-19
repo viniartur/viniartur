@@ -1,6 +1,8 @@
 # Hi there 👋  
 Welcome to my GitHub profile! I’m passionate about technology, programming, and continuous learning. Here you’ll find a collection of my projects, experiments, and contributions.
-
+Connect with me on social media to stay updated on my journey!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniartur)
 ---
 
 ## 🛠 Experience  
@@ -29,6 +31,14 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
 ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+## 🌐 Badges 
+
+[![Google Cloud Certified: Associate Cloud Engineer](https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](https://www.credly.com/badges/7975edff-156c-4d38-9882-5a2491892fbc/public_url)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/f988abee-1898-43ee-b068-78f8824f8e8e/public_url)
+[![GitHub Foundations](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/024d0122-724d-4c5a-bd83-cfe3c4b7a073/public_url)
+
+
+---
 
 ## 🌐 Languages  
 Languages I speak and their proficiency levels:  
@@ -38,14 +48,6 @@ Languages I speak and their proficiency levels:
 🇬🇧 **English** / C1 (Advanced)  ![ENGLISH](https://img.shields.io/badge/Language-English-informational?style=for-the-badge)
 
 🇪🇸 **Spanish** / C1 (Advanced) ![SPANISH](https://img.shields.io/badge/Language-Español-informational?style=for-the-badge) 
-
----
-
-## 🌐 Socials  
-Connect with me on social media to stay updated on my journey!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniartur)  
 
 ---
 
