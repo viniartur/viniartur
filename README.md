@@ -2,8 +2,7 @@
 Welcome to my GitHub profile! I’m passionate about technology, programming, and continuous learning. Here you’ll find a collection of my projects, experiments, and contributions.
 Connect with me on social media to stay updated on my journey!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniartur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vinivarturv)
 ---
 
@@ -18,16 +17,13 @@ I have hands-on experience in various domains, including cloud computing, softwa
 - [Google Cloud Developers Community](https://www.cloudskillsboost.google/public_profiles/1749ec2f-f110-4977-a7ad-31db308a2c0f)  
 
 ---
-
 ## 42 profile
 
 [![vvieira's 42 profile](https://42term.vercel.app/api/widget/student/vvieira?theme=dark)](https://42term.vercel.app)
-
 --
 
 ## 🚀 Tech Stacks  
 Here are the technologies I use, with a focus on cloud solutions, programming languages, and infrastructure tools:  
-
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
@@ -52,17 +48,6 @@ Here are the technologies I use, with a focus on cloud solutions, programming la
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="140" alt="GitHub Foundations" style="margin: 0 10px;"/>
   </a>
 </p>
-
----
-
-## 🌐 Languages  
-Languages I speak and their proficiency levels:  
-
-🇧🇷 **Portuguese** / Native Speaker  ![PORTUGUESE](https://img.shields.io/badge/Language-Português-informational?style=for-the-badge)
-
-🇬🇧 **English** / C1 (Advanced)  ![ENGLISH](https://img.shields.io/badge/Language-English-informational?style=for-the-badge)
-
-🇪🇸 **Spanish** / C1 (Advanced) ![SPANISH](https://img.shields.io/badge/Language-Español-informational?style=for-the-badge) 
 
 ---
 
