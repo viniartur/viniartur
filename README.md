@@ -4,6 +4,7 @@ Connect with me on social media to stay updated on my journey!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniartur)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vinivarturv)
 ---
 
 ## 🛠 Experience  
@@ -17,6 +18,12 @@ I have hands-on experience in various domains, including cloud computing, softwa
 - [Google Cloud Developers Community](https://www.cloudskillsboost.google/public_profiles/1749ec2f-f110-4977-a7ad-31db308a2c0f)  
 
 ---
+
+## 42 profile
+
+[![vvieira's 42 profile](https://42term.vercel.app/api/widget/student/vvieira?theme=dark)](https://42term.vercel.app)
+
+--
 
 ## 🚀 Tech Stacks  
 Here are the technologies I use, with a focus on cloud solutions, programming languages, and infrastructure tools:  
@@ -61,7 +68,4 @@ Languages I speak and their proficiency levels:
 
 Thank you for visiting! 😊  
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss any exciting ideas.
-
-
-[![Take the Cannoli](https://clip.cafe/img400/take-the-cannoli.jpg)](https://clip.cafe/the-godfather-1972/take-the-cannoli/)
 
