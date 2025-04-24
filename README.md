@@ -17,10 +17,6 @@ I have hands-on experience in various domains, including cloud computing, softwa
 - [Google Cloud Developers Community](https://www.cloudskillsboost.google/public_profiles/1749ec2f-f110-4977-a7ad-31db308a2c0f)  
 
 ---
-## 42 profile
-
-[![vvieira's 42 profile](https://42term.vercel.app/api/widget/student/vvieira?theme=dark)](https://42term.vercel.app)
---
 
 ## 🚀 Tech Stacks  
 Here are the technologies I use, with a focus on cloud solutions, programming languages, and infrastructure tools:  
