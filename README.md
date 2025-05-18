@@ -1,4 +1,4 @@
-# Hi there 👋  
+# Hi there 👋 Olá 👋 Hola 👋 こんにちは 👋 Ciao 👋  
 Welcome to my GitHub profile! I’m passionate about technology, programming, and continuous learning. Here you’ll find a collection of my projects, experiments, and contributions.
 Connect with me on social media to stay updated on my journey!  
 
@@ -22,7 +22,8 @@ I have hands-on experience in various domains, including cloud computing, softwa
 Here are the technologies I use, with a focus on cloud solutions, programming languages, and infrastructure tools:  
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
