@@ -1,6 +1,16 @@
 # Hi there 👋 Olá 👋 Hola 👋 こんにちは 👋 Ciao 👋  
-Welcome to my GitHub profile! I’m passionate about technology, programming, and continuous learning. Here you’ll find a collection of my projects, experiments, and contributions.
-Connect with me on social media to stay updated on my journey!  
+Welcome to my GitHub profile! 
+A highly motivated and experienced IT Audit and Enterprise Risk Consultant currently transitioning into a Cloud Analyst role. My background involves working with clients both in Brazil and internationally, focusing on risk management, security, and operations. I have a strong track record of conducting thorough assessments (diagnostics and gap analysis) based on established frameworks. My expertise includes mapping and measuring cyber risks, Third-Party Risk Management, Cyber Risk, and access management.
+
+I bring practical experience in evaluating both on-premise and cloud IT environments, coupled with a solid understanding of Cloud Security and proficiency in managing and supporting cloud infrastructures. My technical skills extend to Linux and shell scripting, PHP, Python, Java, CI/CD pipelines, Docker, and Kubernetes.
+
+In my previous role as a Senior IT Enterprise Risk Consultant at EY Ernst & Young (2019-2024), I advised clients on risk, security, and operational matters, performing framework-based evaluations. I also conducted process analysis and mapping to identify and implement improvements, alongside mapping and measuring cyber risks and managing Third-Party Risk. My responsibilities included access management (AAA, MFA, RBAC), addressing Cyber Risk, developing security maturity level plans, applying security and cloud security frameworks, managing information security incidents, and overseeing Identity and Access Management (IAM) within multi-cloud environments. I have experience conducting ISO 27001, NIST CSF, and CIS Controls process assessments.
+
+My technical proficiency is complemented by my fluency in Portuguese (native) and English (C1 level, acquired through an exchange program in Ireland and professional experience), as well as an intermediate level of Spanish. My academic background includes a degree in Systems Analysis and Development and a postgraduate degree in Cloud and Edge Computing. I am also currently a Cadet at 42 Network in São Paulo (2025 - present).
+
+My technical skills encompass programming languages such as Python, PHP, Java, JavaScript, and Terraform. I am experienced with CI/CD pipelines and Git. I possess knowledge of public cloud platforms (Azure, AWS, OCI, GCP) and hold certifications including Google Cloud Engineer, AZ-900, Oracle Cloud Data Management and Infrastructure, Scrum, Brazilian General Data Protection Law (LGPD) (2021), and GitHub Foundations.
+
+You can connect with me on LinkedIn at www.linkedin.com/in/viniciusarturvieira/ and explore my projects on GitHub at www.github.com/viniartur.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusarturvieira/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vinivarturv)
