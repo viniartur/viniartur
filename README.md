@@ -23,7 +23,7 @@ I have hands-on experience in various domains, including cloud computing, softwa
 
 ## 🌟 Member of  
 - [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)  
-- [42 - Cadet](https://42sp.org.br/)  
+- [42 - Cadet](https://www.42network.org/)  
 - [Google Cloud Developers Community](https://www.cloudskillsboost.google/public_profiles/1749ec2f-f110-4977-a7ad-31db308a2c0f)  
 
 ---
