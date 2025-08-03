@@ -1,4 +1,4 @@
-# 👋 Olá
+# 👋 teste
 Welcome to my GitHub profile! 
 A highly motivated and experienced IT Audit and Enterprise Risk Consultant currently transitioning into a Cloud Analyst role. My background involves working with clients both in Brazil and internationally, focusing on risk management, security, and operations. I have a strong track record of conducting thorough assessments (diagnostics and gap analysis) based on established frameworks. My expertise includes mapping and measuring cyber risks, Third-Party Risk Management, Cyber Risk, and access management.
 
